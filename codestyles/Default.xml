@@ -14,6 +14,7 @@
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
+    <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="CHAINED_CALL_DOT_ON_NEW_LINE" value="false" />
   </JSCodeStyleSettings>
@@ -43,7 +44,10 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="SPECIAL_ELSE_IF_TREATMENT" value="false" />
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="IF_BRACE_FORCE" value="3" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
